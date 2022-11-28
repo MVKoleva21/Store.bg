@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;500;600;700&display=swap');
+* {
+	font-family: 'Comfortaa', cursive;
+}
+
+.navbar{
+    margin-top: 10px;
+}
+.navbar a {
+	display: inline-block;
+	color: black;
+	text-align: center;
+	padding: 14px;
+	text-decoration: none;
+	font-size: 22px;
+	border-radius: 5px;
+}
+.navbar a:hover {
+	background-color: rgb(0, 0, 0);
+	color: black;
+    color: white;
+
+}
+.navbar a.active {
+	background-color: rgb(108, 24, 24);
+	color: white;
+}
