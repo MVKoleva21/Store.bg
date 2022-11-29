@@ -2,26 +2,31 @@
 * {
 	font-family: 'Comfortaa', cursive;
 }
-
 .navbar{
     margin-top: 10px;
 }
 .navbar a {
 	display: inline-block;
-	color: black;
+	color: white;
 	text-align: center;
 	padding: 14px;
 	text-decoration: none;
 	font-size: 22px;
 	border-radius: 5px;
+	background-color: black;
 }
 .navbar a:hover {
-	background-color: rgb(0, 0, 0);
-	color: black;
-    color: white;
-
+    color: black;
+	background: linear-gradient(to bottom, rgb(213, 210, 209), rgb(108, 24, 24) 100%);
+	background-position: 0 100%;
+	background-size: 100% 2px;
+	background-repeat: repeat-x;
+	transition: ease-in-out;
+	transition-duration: 350ms;
 }
 .navbar a.active {
 	background-color: rgb(108, 24, 24);
-	color: white;
+	color: rgb(255, 255, 255);
+	float:left;
+	margin-left: 10px;
 }
