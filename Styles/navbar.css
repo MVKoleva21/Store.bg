@@ -17,7 +17,7 @@
 }
 .navbar a:hover {
     color: black;
-	background: linear-gradient(to bottom, rgb(213, 210, 209), rgb(108, 24, 24) 100%);
+	background: linear-gradient(to bottom, rgb(195, 193, 192), rgb(108, 24, 24) 100%);
 	background-position: 0 100%;
 	background-size: 100% 2px;
 	background-repeat: repeat-x;
