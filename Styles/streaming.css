@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;500;600;700&display=swap');
+* {
+	font-family: 'Comfortaa', cursive;
+}
+*{
+  margin: 0;
+  padding: 0;
+}
+h2{
+  color: #fff;
+  background: #000;
+  padding: 0.8em;
+  position:relative;
+  text-align:center;
+}
+h3{
+  color: #fff;
+  background: #000;
+  padding: 0.8em;
+  font-size: 18px;
+  text-align: center;
+  position:relative;
+  text-align:center;
+}
+.allpc{
+  display: flex;
+  max-width: 50em;
+  margin-left: 50px;
+  margin-top:30px;
+  text-align: center;
+}
+.pc1{
+  background: #FFFFFF;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 50px;
+  height: 730px;
+  width: 650px;
+  padding-top: 30px;
+  margin-left: 80px;
+  margin-right: 20px;
+  
+}
+.pc1pics{
+  position: inherit;
+  height: 280px;
+  width: 260px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.pc1pic{
+  text-align: center;
+  position: inherit;
+  
+}
+p{
+  text-align:center;
+  position: inherit;
+  font-size: 18px;
+}
+.pc2{
+  background: #FFFFFF;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 50px;
+  height: 730px;
+  width: 550px;
+  margin-left: 30px;
+  padding-top: 30px;
+  padding-bottom: -10px;
+ 
+}
+.pc2pics{
+  position: inherit;
+  height: 280px;
+  width: 260px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 24px;
+}
+.pc2pic{
+  text-align: center;
+  position: inherit;
+}
+.pc3{
+  background: #FFFFFF;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 50px;
+  height: 730px;
+  width: 550px;
+  padding-top: 10px;
+  margin-left: 50px;
+}
+.pc3pics{
+  position: inherit;
+  height: 280px;
+  width: 260px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 22px;
+}
+.pc3pic{
+  text-align: center;
+  position: inherit;
+}
+.pc4{
+  background: #FFFFFF;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 50px;
+  height: 730px;
+  width: 650px;
+  padding-top: 10px;
+  margin-left: 50px;
+}
+.pc4pics{
+  position: inherit;
+  height: 280px;
+  width: 260px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 22px;
+}
+.pc4pic{
+  text-align: center;
+  position: inherit;
+}
