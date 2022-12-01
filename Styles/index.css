@@ -6,6 +6,7 @@
     position: absolute;
     z-index: -99;
     bottom: 0;
+	top: -400px;
 }
 img {
     height: 1500px;
@@ -25,8 +26,8 @@ img {
 }
 .add2{
     position: absolute;
-    right: 13vw;
-    top: 190px;
+    right: 8vw;
+    top: 130px;
     text-align: left;
     font-weight: bold;
     font-size: 70px;
