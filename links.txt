@@ -1,0 +1,5 @@
+Links:
+    Link to figma:
+	https://www.figma.com/file/lMKLn30Co3xg7CVWJ2UnCm/Untitled?node-id=0%3A1&t=BO7gSGVLkDulnbWe-0
+    Link to the github repositry:
+	https://github.com/MVKoleva21/Store.bg
